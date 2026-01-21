@@ -1,0 +1,14 @@
+{
+  "name": "saf_project",
+  "version": "1.0.0",
+  "description": "scripts de uso frecuente",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "elkin hurtado",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
